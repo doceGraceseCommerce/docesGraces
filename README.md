@@ -35,5 +35,5 @@ O sistema permite gerenciar todos os produtos que a empresa trabalha. A loja fun
 
 # Wireframes do sistema ecommerce
 
-![](/images/desktop_wireframes)
-![](https://imgur.com/a/Q4htJNL)
+![](./images/desktop_wireframes.png)
+![](./images/mobile_wireframes.png)
