@@ -1,5 +1,5 @@
 # Sistema web JumboETL
- ![](https://i.imgur.com/GVAU8Y1.png)
+ ![]()
 Projeto da faculdade FATEC com parceria da empresa Visiona Tecnologia Espacial S.A.
 
 # Team
