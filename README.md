@@ -1,6 +1,6 @@
-# Sistema web JumboETL
+# Sistema eCommerce para pequena empresa do ramo alimentício
  ![]()
-Projeto da faculdade FATEC com parceria da empresa Visiona Tecnologia Espacial S.A.
+
 
 # Team
 **Product Owner/Developer:** João Victor Marinho de Souza <br>
