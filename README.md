@@ -26,7 +26,7 @@ A empresa realiza todo o controle do comérico através de redes sociais, e devi
 O sistema permite gerenciar todos os produtos que a empresa trabalha. A loja funciona com produtos alimentícios disponíveis a pronta entrega e sob encomenda. Através da plataforma sera possivel controle dinâmico dos produtos disponíveis para venda no dia, valor, quantidade. todos os meios de contato com a loja explicitos no site. Cadastro de novos clientes, gerenciador de pagamento online.
 
 # Atores
-**Vendedora:** Possui acesso ao banco de produtos da loja, podendo adicionar novos produtos e editar produtos. Possui acesso ao banco de clientes cadastrados. Histórico de vendas. Notificação de nova venda.
+**Vendedora:** Possui acesso ao banco de produtos da loja, podendo adicionar novos produtos e editar produtos. Possui acesso ao banco de clientes cadastrados. Histórico de vendas. Notificação de nova venda. <br>
 **Cliente:** Possui acesso aos produtos disponíveis na loja, cadastro de perfil.
 
 
