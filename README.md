@@ -13,10 +13,10 @@ Projeto da faculdade FATEC com parceria da empresa Visiona Tecnologia Espacial S
 # Sprints
 | Sprint                                                              | Data de Entrega |
 | ------------------------------------------------------------------- | --------------- |
-| [Sprint 1](https://github.com/DaviNeves0/ETL_Visiona/tree/sprint-1) | 19 set 2021     |
-| [Sprint 2](https://github.com/DaviNeves0/ETL_Visiona/tree/sprint-2) | 10 out 2021     |
-| [Sprint 3](https://github.com/DaviNeves0/ETL_Visiona/tree/sprint-3) | 07 nov 2021     |
-| [Sprint 4](https://github.com/DaviNeves0/ETL_Visiona/tree/sprint-4) | 28 nov 2021     |
+| [Sprint 1](https://github.com/doceGraceseCommerce/docesGraces/tree/sprint-1) | 19 set 2021     |
+| [Sprint 2](https://github.com/doceGraceseCommerce/docesGraces/tree/sprint-2) | 10 out 2021     |
+| [Sprint 3](https://github.com/doceGraceseCommerce/docesGraces/tree/sprint-3) | 07 nov 2021     |
+| [Sprint 4](https://github.com/doceGraceseCommerce/docesGraces/tree/sprint-4) | 28 nov 2021     |
 
 
 # Desafio
