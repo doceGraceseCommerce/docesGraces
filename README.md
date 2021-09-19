@@ -3,7 +3,7 @@
 Projeto da faculdade FATEC com parceria da empresa Visiona Tecnologia Espacial S.A.
 
 # Team
-**Product Owner/Developer:** João Victor Marinho de Souza 
+**Product Owner/Developer:** João Victor Marinho de Souza <br>
 **Product Owner/Developer:** Diego Rodrigo da Silva  
  
 
