@@ -31,7 +31,52 @@ O sistema permite gerenciar todos os produtos que a empresa trabalha. A loja fun
 
 
 # Backlog
-![]()
+<hr>
+
+# 📆Entregas - Funcionalidades
+
+ 
+| Sprint 1 - :                  | Conclusão|
+| ------------------------------------------------------------------- | --------------- |
+| Wireframes do website ecommerce. |    |
+
+
+
+<hr>
+
+| Sprint 2 - Protótipo de painel de anúncio - CRUD final de anúncios: | Conclusão |
+| ------------------------------------------------------------------- | --------------- |
+| Tela de cadastro para novos usuários. |  |
+| Possibilidade de exclusão de cadastro. |  |
+| Sistema de Login e Logout para usuários cadastrados.    |  |
+| O usuário pode atualizar ou retirar um anúncio do ar - UPDATE e DELETE.    |  |
+| Painel de gerenciamento de anúncios do usuário com informações particulares    |  |
+
+
+<hr>
+
+| Sprint 3 - Comunicação Cliente e Comprador:                                 | Conclusão |
+| ------------------------------------------------------------------- | --------------- |
+| Cadastro de anúncios a partir de um arquivo CSV. |  |
+| Template de CSV disponibilizado pela aplicação. |  |
+| Chat simples em tempo real entre cliente e comprador. |  |
+| Atualização no painel para apresentar informações de contato |  |
+| Pesquisa de anúncios. |  |
+
+
+<hr>
+
+
+ | Sprint 4 - Relatórios - Importação de arquivos:                                       | Conclusão |
+| ------------------------------------------------------------------- | --------------- |
+| Geração de relatório com anúncio - PDF com as informações. |  |
+| Atualização da documentação conforme as entregas. |  |
+
+
+
+
+<hr>
+
 
 # Wireframes do sistema ecommerce
 Figma Link : https://www.figma.com/file/iv7vuSRBC1sm1IrAZabzFA/API-DOCES-GRACES?node-id=0%3A1
