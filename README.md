@@ -33,8 +33,6 @@ O sistema permite gerenciar todos os produtos que a empresa trabalha. A loja fun
 # Backlog
 <hr>
 
-# 📆Entregas - Funcionalidades
-
  
 | Sprint 1 - :                  | Conclusão|
 | ------------------------------------------------------------------- | --------------- |
