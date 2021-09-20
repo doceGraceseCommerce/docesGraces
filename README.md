@@ -59,7 +59,7 @@ O sistema permite gerenciar todos os produtos que a empresa trabalha. A loja fun
 
 <hr>
 
-| Sprint 3 - Comunicação Cliente e Comprador:                                 | Conclusão |
+| Sprint 3 - :                                 | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
 | Cadastrar novos produtos de pronta-entrega. |  |
 | Selecionar quantidade de produtos disponíveis a pronta entrega. |  |
@@ -79,7 +79,7 @@ O sistema permite gerenciar todos os produtos que a empresa trabalha. A loja fun
 <hr>
 
 
- | Sprint 4 - Relatórios - Importação de arquivos:                                       | Conclusão |
+ | Sprint 4 - :                                       | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
 | Receber notificação de pedidos de produtos pronta entrega. |  |
 | Receber notificação de solicitação de orçamentos de encomendas. |  |
