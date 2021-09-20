@@ -2,7 +2,7 @@
 
 # Team
 **Product Owner/Developer:** João Victor Marinho de Souza <br>
-**Scrum Master/Developer:** Diego Rodrigo da Silva  
+**Developer:** Diego Rodrigo da Silva  
  
 
 # Tecnologias
