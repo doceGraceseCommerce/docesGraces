@@ -6,9 +6,9 @@
  
 
 # Tecnologias
-**Server:** Java
-**Client:** React
-**Banco:** PostgreSQL
+**Server:** Java  
+**Client:** React  
+**Banco:** PostgreSQL  
 
 # Sprints
 | Sprint                                                              | Data de Entrega |
