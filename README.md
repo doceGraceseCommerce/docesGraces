@@ -1,14 +1,14 @@
 # Sistema eCommerce para pequena empresa do ramo alimentício
- ![]()
-
 
 # Team
 **Product Owner/Developer:** João Victor Marinho de Souza <br>
-**Product Owner/Developer:** Diego Rodrigo da Silva  
+**Scrum Master/Developer:** Diego Rodrigo da Silva  
  
 
 # Tecnologias
-![]()
+**Server:** Java
+**Client:** React
+**Banco:** PostgreSQL
 
 # Sprints
 | Sprint                                                              | Data de Entrega |
@@ -29,20 +29,25 @@ O sistema permite gerenciar todos os produtos que a empresa trabalha. A loja fun
 **Vendedora:** Possui acesso ao banco de produtos da loja, podendo adicionar novos produtos e editar produtos. Possui acesso ao banco de clientes cadastrados. Histórico de vendas. Notificação de nova venda. <br>
 **Cliente:** Possui acesso aos produtos disponíveis na loja, cadastro de perfil.
 
+# Wireframes do sistema ecommerce
+Figma Link : https://www.figma.com/file/iv7vuSRBC1sm1IrAZabzFA/API-DOCES-GRACES?node-id=0%3A1
+![](./images/desktop_wireframes.png)
+![](./images/mobile_wireframes.png)
 
 # Backlog
-<hr>
+
 
  
-| Sprint 1 - :                  | Conclusão|
-| ------------------------------------------------------------------- | --------------- |
-| Wireframes do website ecommerce. |    |
+| Sprint 1 - Backlog e Wireframe de telas | Conclusão |
+| --------------------------------------- | --------- |
+| Backlog Total                                        | OK          |
+| Wireframes do website ecommerce.        | OK          |
 
 
 
 <hr>
 
-| Sprint 2 - : | Conclusão |
+| Sprint 2 - Cliente consegue visualizar cardápio de produtos | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
 | Visualizar cardápio de produtos disponíveis a pronta entrega. |  |
 | Realizar cadastro no site fornecendo email, nome completo, telefone, data de nascimento, endereço. |  |
@@ -57,7 +62,7 @@ O sistema permite gerenciar todos os produtos que a empresa trabalha. A loja fun
 
 <hr>
 
-| Sprint 3 - :                                 | Conclusão |
+| Sprint 3 - Vendedora consegue controlar e cadastrar produtos e vendas                                | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
 | Cadastrar novos produtos de pronta-entrega. |  |
 | Selecionar quantidade de produtos disponíveis a pronta entrega. |  |
@@ -77,7 +82,7 @@ O sistema permite gerenciar todos os produtos que a empresa trabalha. A loja fun
 <hr>
 
 
- | Sprint 4 - :                                       | Conclusão |
+ | Sprint 4 - Usuário consegue realizar compra e escolher formas de pagamento                                     | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
 | Receber notificação de pedidos de produtos pronta entrega. |  |
 | Receber notificação de solicitação de orçamentos de encomendas. |  |
@@ -97,10 +102,15 @@ O sistema permite gerenciar todos os produtos que a empresa trabalha. A loja fun
 
 
 
-<hr>
 
 
-# Wireframes do sistema ecommerce
-Figma Link : https://www.figma.com/file/iv7vuSRBC1sm1IrAZabzFA/API-DOCES-GRACES?node-id=0%3A1
-![](./images/desktop_wireframes.png)
-![](./images/mobile_wireframes.png)
+
+
+
+# Repositórios integrantes do projeto
+
+| Repositório                                                       | Descrição                                                                   |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [docesGraces](https://github.com/doceGraceseCommerce/docesGraces) | Apresentação e documentação|
+| [client](https://github.com/doceGraceseCommerce/client)           | Aplicação web com a interface do usuário                                    |
+| [server](https://github.com/doceGraceseCommerce/server)           | Aplicação que recebe as requisições do cliente e armazena ou busca no banco |
