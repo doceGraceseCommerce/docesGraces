@@ -49,7 +49,6 @@ Figma Link : https://www.figma.com/file/iv7vuSRBC1sm1IrAZabzFA/API-DOCES-GRACES?
 
 | Sprint 2 - Cliente consegue visualizar cardápio de produtos | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
-| Visualizar cardápio de produtos disponíveis a pronta entrega. |  |
 | Realizar cadastro no site fornecendo email, nome completo, telefone, data de nascimento, endereço. |  |
 | Protótipo do website ecommerce.    |  |
 | Página Home do website.    |  |
