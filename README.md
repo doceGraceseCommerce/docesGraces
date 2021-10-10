@@ -120,6 +120,9 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 
 ## ⌛ Funcionamento
 
+<p align="center">
+  <img src="./images/spring2-application1.gif">
+</p>
 
 
 
