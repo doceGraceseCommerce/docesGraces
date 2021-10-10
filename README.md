@@ -118,6 +118,10 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 
 ## 💻 Telas do Sistema
 
+<p align="center">
+  <img src="./images/janelas.png">
+</p>
+
 ## ⌛ Funcionamento
 
 <p align="center">
