@@ -114,7 +114,7 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 | Para entregas, formas de pagamento válidas são somente pelo site. |  |
 | Para retiradas, pagamento somente presencial. |  |
 
-# 🎯 Entrega - Sprint 1
+# 🎯 Entrega - Sprint 2
 
 ## 💻 Telas do Sistema
 
