@@ -125,7 +125,7 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 ## ⌛ Funcionamento
 
 <p align="center">
-  <img src="./images/application record/aplicacaofuncionando.gif">
+  <img src="./images/application record/sprint3application.gif">
 </p>
 
 Na primeira parte do gif é possível ver como o painel do administrador da loja funciona, cadastrando novos produtos, excluindo produtos, controlando quais produtos estão disponíveis a pronta entrega assim como a quantidade e valor unitário. Depois é possível ver como a página de produtos disponíveis a pronta entrega aparecem ao cliente, e o mesmo adicionando os produtos ao carrinho.
