@@ -22,8 +22,8 @@
 | Sprint                                                              | Data de Entrega |
 | ------------------------------------------------------------------- | --------------- |
 | Sprint 1 | 19 set 2021     |
-| 👉**Sprint 2** | 10 out 2021     |
-| Sprint 3 | 07 nov 2021     |
+| Sprint 2 | 10 out 2021     |
+| 👉**Sprint 3** | 07 nov 2021     |
 | Sprint 4 | 28 nov 2021     |
 
 
@@ -77,19 +77,19 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 
 | Sprint 3 - Vendedora consegue controlar e cadastrar produtos e vendas e Cliente consegue adicionar produtos ao carrinho                              | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
-| Vendedora - Cadastrar novos produtos de pronta-entrega. |  |
-| Vendedora - Selecionar quantidade de produtos disponíveis a pronta entrega. |  |
-| Vendedora - Selecionar quais produtos serão visíveis a clientes no cardápio de pronta entrega. |  |
-| Vendedora - Remover produtos disponíveis. |  |
-| Vendedora - Editar / excluir produtos cadastrados. |  |
-| Vendedora - Página onde a vendedora visualiza / edita / exclui todos os produtos cadastrados. |  |
-| Vendedora - Página onde a vendedora determina quais produtos e quantidade estão disponíveis à pronta entrega. |  |
-| Vendedora - Página onde a vendedora cadastra novos produtos para pronta entrega. |  |
-| Cliente - Selecionar produtos e quantidades e adicionar ao carrinho. |  |
-| Cliente - Editar produtos e / ou quantidades selecionadas e / ou adicionadas ao carrinho. |  |
-| Cliente - Solicitar orçamento para encomendas por email, whatsapp ou telefone. |  |
-| Cliente - Página de produtos adicionados ao carrinho do cliente.    |  |
-| Cliente - Página para redigir texto para email de encomenda. |  |
+| Vendedora - Cadastrar novos produtos de pronta-entrega. | ✔️ |
+| Vendedora - Selecionar quantidade de produtos disponíveis a pronta entrega. | ✔️ |
+| Vendedora - Selecionar quais produtos serão visíveis a clientes no cardápio de pronta entrega. | ✔️ |
+| Vendedora - Remover produtos disponíveis. | ✔️ |
+| Vendedora - Editar / excluir produtos cadastrados. | ✔️ |
+| Vendedora - Página onde a vendedora visualiza / edita / exclui todos os produtos cadastrados. | ✔️ |
+| Vendedora - Página onde a vendedora determina quais produtos e quantidade estão disponíveis à pronta entrega. | ✔️ |
+| Vendedora - Página onde a vendedora cadastra novos produtos para pronta entrega. | ✔️ |
+| Cliente - Selecionar produtos e quantidades e adicionar ao carrinho. | ✔️ |
+| Cliente - Editar produtos e / ou quantidades selecionadas e / ou adicionadas ao carrinho. | ✔️ |
+| Cliente - Solicitar orçamento para encomendas por email, whatsapp ou telefone. | ✔️ |
+| Cliente - Página de produtos adicionados ao carrinho do cliente.    | ✔️ |
+| Cliente - Página para redigir texto para email de encomenda. | ✔️ |
 
 
 <hr>
