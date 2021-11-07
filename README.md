@@ -125,7 +125,7 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 ## ⌛ Funcionamento
 
 <p align="center">
-  <img src="./images/sprint2-application1.gif">
+  <img src="./images/application record/aplicacaofuncionando.webm">
 </p>
 
 
