@@ -15,7 +15,8 @@
 
 # 🧰 Tecnologias
 **Server:** Java  
-**Client:** React  
+**Client:** React 
+**Admin:** React
 **Banco:** MySQL  
 
 # 📆 Sprints
