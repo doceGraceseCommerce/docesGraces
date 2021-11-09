@@ -127,12 +127,10 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 
 ## ⌛ Funcionamento
 
-<p align="center">
+[/<p align="center">
   <img src="./images/application record/sprint3application.gif">
-</p>
+</p>/]
 
-[Imgur](https://i.imgur.com/bTXMC3e.jpg)
-[![IMAGE ALT TEXT](https://imgur.com/bTXMC3e)](https://youtu.be/2vR3VusNEdk "Doces Grace's")
 
 <a href="https://youtu.be/2vR3VusNEdk">
          <img alt="Qries" src="https://i.imgur.com/bTXMC3e.jpg">
