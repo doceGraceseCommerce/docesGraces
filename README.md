@@ -135,8 +135,7 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 [![IMAGE ALT TEXT](https://imgur.com/bTXMC3e)](https://youtu.be/2vR3VusNEdk "Doces Grace's")
 
 <a href="https://youtu.be/2vR3VusNEdk">
-         <img alt="Qries" src="https://i.imgur.com/bTXMC3e.jpg"
-         width=150" height="70">
+         <img alt="Qries" src="https://i.imgur.com/bTXMC3e.jpg">
       </a>
 
 Na primeira parte do gif é possível ver como o painel do administrador da loja funciona, cadastrando novos produtos, excluindo produtos, controlando quais produtos estão disponíveis a pronta entrega assim como a quantidade e valor unitário. Depois é possível ver como a página de produtos disponíveis a pronta entrega aparecem ao cliente, e o mesmo adicionando os produtos ao carrinho.
