@@ -1,3 +1,5 @@
+{% include youtubePlayer.html id=page.youtubeId %}
+
 # Sistema eCommerce para pequena empresa do ramo alimentício
 
 # 🎓 Team
@@ -128,6 +130,8 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 <p align="center">
   <img src="./images/application record/sprint3application.gif">
 </p>
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/2vR3VusNEdk "Doces Grace's")
 
 Na primeira parte do gif é possível ver como o painel do administrador da loja funciona, cadastrando novos produtos, excluindo produtos, controlando quais produtos estão disponíveis a pronta entrega assim como a quantidade e valor unitário. Depois é possível ver como a página de produtos disponíveis a pronta entrega aparecem ao cliente, e o mesmo adicionando os produtos ao carrinho.
 
