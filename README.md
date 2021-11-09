@@ -127,9 +127,6 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 
 ## ⌛ Funcionamento
 
-[/<p align="center">
-  <img src="./images/application record/sprint3application.gif">
-</p>/]
 
 
 <a href="https://youtu.be/2vR3VusNEdk">
