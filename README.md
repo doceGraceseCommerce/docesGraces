@@ -15,9 +15,9 @@
 
 # 🧰 Tecnologias
 **Server:** Java  
-**Client:** React 
-**Admin:** React
-**Banco:** MySQL  
+**Client:** React </br>
+**Admin:** React <br>
+**Banco:** MySQL  </br>
 
 # 📆 Sprints
 | Sprint                                                              | Data de Entrega |
