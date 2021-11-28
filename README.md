@@ -14,20 +14,22 @@
 | [client](https://github.com/doceGraceseCommerce/client)           | Aplicação Client com a interface do cliente                                        |
 | [admin](https://github.com/doceGraceseCommerce/admin)             | Aplicação Admin com a interface da vendedora                                       |
 | [server](https://github.com/doceGraceseCommerce/server)           | Aplicação Server que recebe as requisições do cliente e da vendedora e armazena ou busca no banco |
+| [Stripe server](https://github.com/doceGraceseCommerce/paymentServer)           | Aplicação Server que realiza a conexão com a API da Stripe para realizar pagamentos online |
 
 # 🧰 Tecnologias
 **Server:** Java  
 **Client:** React </br>
 **Admin:** React <br>
 **Banco:** MySQL  </br>
+**Stripe API:** Node.JS  </br>
 
 # 📆 Sprints
 | Sprint                                                              | Data de Entrega |
 | ------------------------------------------------------------------- | --------------- |
 | Sprint 1 | 19 set 2021     |
 | Sprint 2 | 10 out 2021     |
-| 👉**Sprint 3** | 07 nov 2021     |
-| Sprint 4 | 28 nov 2021     |
+| Sprint 3 | 07 nov 2021     |
+| 👉**Sprint 4** | 28 nov 2021     |
 
 
 # 🏁 Desafio
@@ -100,24 +102,23 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 
 | Sprint 4 - Cliente consegue realizar compra e escolher formas de pagamento e Vendedora controlar status do pedido | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
-| Vendedora - Receber notificação de pedidos de produtos pronta entrega. |  |
-| Vendedora - Receber notificação de solicitação de orçamentos. |  |
-| Vendedora - Página onde a vendedora visualiza e altera status dos pedidos recebidos. |  |
-| Cliente - Confirmar produtos selecionados no carrinho. |  |
-| Cliente - Selecionar formas de envio do produto (retirar no local ou entrega). |  |
-| Cliente - Informar local de entrega do produto. |  |
-| Cliente - Visualizar taxa de entrega, de acordo com endereço informado pelo cliente. |  |
-| Cliente - Consegue visualizar status do pedido. |  |
-| Cliente - Página para informar metodo de entrega da compra. |  |
-| Cliente - Página para informar endereço de entrega. |  |
-| Cliente - Página de pagamento online. |  |
-| Cliente - Página para visualizar status do pedido. |  |
-| Somente clientes cadastrados podem confirmar produtos do carrinho e realizar pagamentos. |  |
-| Produtos são entregues somente em São José dos Campos e em alguns bairros de Jacareí. |  |
-| Para entregas, formas de pagamento válidas são somente pelo site. |  |
-| Para retiradas, pagamento somente presencial. |  |
+| Vendedora - Receber notificação de pedidos de produtos pronta entrega. | ✔️ |
+| Vendedora - Receber notificação de solicitação de orçamentos. | ✔️ |
+| Vendedora - Página onde a vendedora visualiza e altera status dos pedidos recebidos. | ✔️ |
+| Cliente - Confirmar produtos selecionados no carrinho. | ✔️ |
+| Cliente - Selecionar formas de envio do produto (retirar no local ou entrega). | ✔️ |
+| Cliente - Informar local de entrega do produto. | ✔️ |
+| Cliente - Visualizar taxa de entrega, de acordo com endereço informado pelo cliente. | ✔️ |
+| Cliente - Consegue visualizar status do pedido. | ✔️ |
+| Cliente - Página para informar metodo de entrega da compra. | ✔️ |
+| Cliente - Página para informar endereço de entrega. | ✔️ |
+| Cliente - Página de pagamento online. | ✔️ |
+| Cliente - Página para visualizar status do pedido. | ✔️ |
+| Somente clientes cadastrados podem confirmar produtos do carrinho e realizar pagamentos. | ✔️ |
+| Para entregas, formas de pagamento válidas são somente pelo site. | ✔️ |
+| Para retiradas, pagamento somente presencial. | ✔️ |
 
-# 🎯 Entrega - Sprint 2
+# 🎯 Entrega - Sprint 4
 
 ## 💻 Telas do Sistema
 
@@ -133,7 +134,6 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
          <img alt="Qries" src="https://i.imgur.com/bTXMC3e.jpg">
       </a>
 
-Na primeira parte do gif é possível ver como o painel do administrador da loja funciona, cadastrando novos produtos, excluindo produtos, controlando quais produtos estão disponíveis a pronta entrega assim como a quantidade e valor unitário. Depois é possível ver como a página de produtos disponíveis a pronta entrega aparecem ao cliente, e o mesmo adicionando os produtos ao carrinho.
 
 
 
