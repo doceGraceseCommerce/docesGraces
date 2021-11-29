@@ -21,7 +21,7 @@
 **Client:** React </br>
 **Admin:** React <br>
 **Banco:** MySQL  </br>
-**Stripe API:** Express  </br>
+**Stripe API:** Node.JS  </br>
 
 # 📆 Sprints
 | Sprint                                                              | Data de Entrega |
