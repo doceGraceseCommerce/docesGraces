@@ -130,7 +130,7 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
 
 
 
-<a href="https://youtu.be/2vR3VusNEdk">
+<a href="https://youtu.be/HAkdPd7re0M">
          <img alt="Qries" src="https://i.imgur.com/bTXMC3e.jpg">
       </a>
 
