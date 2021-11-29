@@ -126,6 +126,14 @@ Figma Link : https://www.figma.com/file/IOXaSpGWPkVnwetHDIsPm2/Untitled?node-id=
   <img src="./images/janelas.png">
 </p>
 
+## 💻 Modelagem do Banco de Dados
+
+<p align="center">Modelo Conceitual</p>
+<img src="./images/modeloConceitual.png" align="center">
+
+<p align="center">Modelo Lógico</p>
+<img src="./images/modeloLogico.png" align="center">
+
 ## ⌛ Funcionamento
 
 
